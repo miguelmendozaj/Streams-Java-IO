@@ -11,10 +11,15 @@ Manejo del flujo de información en archivos de texto plano
 Programa para el manejo de información de entrada y salida en archivos de texto plano, por medio de un formulario que cuenta con una ventana principal, un menú y submenú para accerder en donde se podra:
 
 ✔ Crear el archivo.
+
 ✔ Guardar información.
+
 ✔ Mostrar la información.
+
 ✔ Buscar un dato dentro del archivo.
+
 ✔ Eliminar el archivo.
+
 
 Uso de metodos, clases y excepciones usados:
 
